@@ -37,3 +37,5 @@ Atividade Prática
 7. Aguarde alguns minutos para o GitHub publicar o seu site. Após a publicação, copie o URL fornecido pelo GitHub e verifique se o site está funcionando corretamente.
 
 8. Compartilhe o URL do seu site com seus colegas de classe.
+
+Link: https://palomaalmeidaa.github.io/meu_portfolio/
